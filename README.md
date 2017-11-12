@@ -13,7 +13,12 @@ MATLAB implementation of the inpainting algorithm as proposed by Criminisi et al
 ![alt MotionBlur3](https://github.com/TheGalileo/ImageInpainting-and-SelectiveBlur/blob/master/images/ImgOutput.JPG)
 
 # Sample Output Images
-
+### Inpainting: The Kanizsa Triangle
+![alt MotionBlur1](https://github.com/TheGalileo/ImageInpainting-and-SelectiveBlur/blob/master/images/samplebeech.JPG)
+### Image Inpainting on Natural Images
+![alt MotionBlur1](https://github.com/TheGalileo/ImageInpainting-and-SelectiveBlur/blob/master/images/sample1.JPG)
+### Selective Motion Blur on Natural Images
+![alt MotionBlur1](https://github.com/TheGalileo/ImageInpainting-and-SelectiveBlur/blob/master/images/sample2.JPG)
 
 # How to Run
 ## Requirements:
